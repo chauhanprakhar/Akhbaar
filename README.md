@@ -4,7 +4,7 @@ Akhbaar is a news platform by common people for the common people to reduce the 
 
 - GPS usage(post dalte samay GPS location on krwayega)
 - Telegram/watsaap jaisa end to end encrypted(privacy ka khayal)
-- Basic social media clone (Like Twitter and Instagram)
+- Basic social media clone (Like Twitter and Instagram)(prakhar is to ready kr hi lo)
 - we need to keep it simple (nhi to hike jaisa haal hoga)
 
 
